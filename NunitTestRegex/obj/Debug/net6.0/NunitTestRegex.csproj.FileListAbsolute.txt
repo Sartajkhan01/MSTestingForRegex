@@ -1,0 +1,15 @@
+C:\Users\Sartaj khan\source\repos\NunitTestRegex\NunitTestRegex\obj\Debug\net6.0\NunitTestRegex.csproj.AssemblyReference.cache
+C:\Users\Sartaj khan\source\repos\NunitTestRegex\NunitTestRegex\obj\Debug\net6.0\NunitTestRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sartaj khan\source\repos\NunitTestRegex\NunitTestRegex\obj\Debug\net6.0\NunitTestRegex.AssemblyInfoInputs.cache
+C:\Users\Sartaj khan\source\repos\NunitTestRegex\NunitTestRegex\obj\Debug\net6.0\NunitTestRegex.AssemblyInfo.cs
+C:\Users\Sartaj khan\source\repos\NunitTestRegex\NunitTestRegex\obj\Debug\net6.0\NunitTestRegex.csproj.CoreCompileInputs.cache
+C:\Users\Sartaj khan\source\repos\NunitTestRegex\NunitTestRegex\bin\Debug\net6.0\NunitTestRegex.exe
+C:\Users\Sartaj khan\source\repos\NunitTestRegex\NunitTestRegex\bin\Debug\net6.0\NunitTestRegex.deps.json
+C:\Users\Sartaj khan\source\repos\NunitTestRegex\NunitTestRegex\bin\Debug\net6.0\NunitTestRegex.runtimeconfig.json
+C:\Users\Sartaj khan\source\repos\NunitTestRegex\NunitTestRegex\bin\Debug\net6.0\NunitTestRegex.dll
+C:\Users\Sartaj khan\source\repos\NunitTestRegex\NunitTestRegex\bin\Debug\net6.0\NunitTestRegex.pdb
+C:\Users\Sartaj khan\source\repos\NunitTestRegex\NunitTestRegex\obj\Debug\net6.0\NunitTestRegex.dll
+C:\Users\Sartaj khan\source\repos\NunitTestRegex\NunitTestRegex\obj\Debug\net6.0\refint\NunitTestRegex.dll
+C:\Users\Sartaj khan\source\repos\NunitTestRegex\NunitTestRegex\obj\Debug\net6.0\NunitTestRegex.pdb
+C:\Users\Sartaj khan\source\repos\NunitTestRegex\NunitTestRegex\obj\Debug\net6.0\NunitTestRegex.genruntimeconfig.cache
+C:\Users\Sartaj khan\source\repos\NunitTestRegex\NunitTestRegex\obj\Debug\net6.0\ref\NunitTestRegex.dll
