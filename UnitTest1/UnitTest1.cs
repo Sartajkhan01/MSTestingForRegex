@@ -17,7 +17,7 @@ namespace UnitTest1
         {
             // Arrange 
             bool expected = true;
-            string name = "Shivaraj";
+            string name = "Sartaj";
             UserRegistrationDetails user = new UserRegistrationDetails();
 
             // Act
@@ -33,7 +33,7 @@ namespace UnitTest1
         {
             // Arrange 
             bool expected = true;
-            string name = "Gowda";
+            string name = "Khan";
             UserRegistrationDetails user = new UserRegistrationDetails();
 
             // Act
@@ -48,7 +48,7 @@ namespace UnitTest1
         {
             // Arrange 
             bool expected = true;
-            string email = "4shivaraj.gowda@gmail.com";
+            string email = "sartajikhan786@gmail.com";
             UserRegistrationDetails user = new UserRegistrationDetails();
 
             // Act
